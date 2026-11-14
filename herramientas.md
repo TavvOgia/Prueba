@@ -1,4 +1,4 @@
-## herramientas que hemos utilizado
+## Herramientas que hemos utilizado
 
 ## Obsidian
 
@@ -13,6 +13,8 @@
 * **Visualización de conexiones:** Su vista de "Grafo" muestra cómo se relacionan tus notas y conceptos entre sí de forma visual.
 * **Privacidad total:** Tus datos se guardan directamente en tu disco duro, por lo que no dependes de la nube de terceros y puedes leer tus archivos con cualquier editor de texto básico.
 * **Personalización extrema:** Cuenta con cientos de plugins oficiales y de la comunidad para añadir tableros Kanban, calendarios, gráficos avanzados y sincronización.
+
+## Orcid
 
 ## Github
 
