@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "40add74a58aecda3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f0893b9b72eb91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56400479b6c18fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bienvenido"
+            }
+          },
+          {
+            "id": "8c2c258f4743cd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bienvenido"
+            }
+          },
+          {
+            "id": "39cef18a0b617f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referencias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Referencias"
+            }
+          },
+          {
+            "id": "20e5b31c18baeed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bienvenido"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9bdaada3d684cccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5d41cc5b0e2fe7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "970ec3910239ae6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7129546711c0ec51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b432d8a426de13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "19267634ef1c15b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a77193d2862369eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58756996d1f28c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb0c76ff8dcdb59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a8096528e95c79b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "file:C:/Users/Usuario/Desktop/Emma/Trabajo LCC/Cursos/5 - De la Hipotesis a la Tesis/FCEN_UNSJ_H_a_T-main/Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "e19574364aebae96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "file:C:/Users/Usuario/Desktop/Emma/Trabajo LCC/Cursos/5 - De la Hipotesis a la Tesis/FCEN_UNSJ_H_a_T-main/Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "7d67999ef2e0b8a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dddf8885efd73df1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "37c161202b9f948d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "file:C:/Users/Usuario/Desktop/Emma/Trabajo LCC/Cursos/5 - De la Hipotesis a la Tesis/FCEN_UNSJ_H_a_T-main/Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "onebib:Insert citation": false
+    }
+  },
+  "active": "20e5b31c18baeed8",
+  "lastOpenFiles": [
+    "PDFs por leer/Augmented Reality Technology as a Driver of Spatial Thinking and.pdf",
+    "referencia.bib",
+    "Nuevo documento de texto.txt",
+    "file:C:/Users/Usuario/Desktop/Emma/Trabajo LCC/Cursos/5 - De la Hipotesis a la Tesis/FCEN_UNSJ_H_a_T-main/Readme.md",
+    "PDFs por leer/Sustained attention in learning what can Hollywood cinema teach us about the design of educational videos.pdf",
+    "PDFs por leer/Empirical Validation of the ASER Framework for Long-Term Knowledge Retention in Augmented Reality.pdf",
+    "PDFs por leer/VR-Driven Pedagogies Empowering.pdf",
+    "PDFs por leer",
+    "Bienvenido.md",
+    "Referencias.md"
+  ]
+}
