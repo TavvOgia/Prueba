@@ -32,6 +32,19 @@
 
 ## ArXiv
 
+**arXiv** (pronunciado *árkaiv*, por la letra griega *ji*, $\chi$) es un repositorio digital de acceso abierto donde investigadores de todo el mundo publican borradores de artículos científicos (*preprints*) antes de que pasen por la revisión por pares (*peer review*) de una revista tradicional.
+
+### Datos clave y funcionamiento
+
+* **Origen:** Fue creado en **1991** por el físico Paul Ginsparg originalmente para compartir artículos de física de altas energías, y hoy es administrado por la Universidad de Cornell.
+* **Áreas que cubre:** Física, Matemáticas, Ciencias de la Computación, Biología Cuantitativa, Finanzas Cuantitativas, Estadística, Ingeniería Eléctrica y Economía.
+* **Moderación, no revisión:** Los artículos no pasan por una revisión científica exhaustiva antes de subirse, sino por una moderación básica para verificar que el contenido sea pertinente y de nivel académico. Esto permite que los descubrimientos se difundan en horas en lugar de meses o años.
+* **Identificadores únicos:** Cada trabajo recibe un código estándar (por ejemplo, `arXiv:2303.08774`) y permite subir múltiples versiones corregidas a lo largo del tiempo.
+
+### Importancia en la ciencia actual
+
+Se ha convertido en el estándar de facto para áreas de avance ultrarrápido, especialmente en **inteligencia artificial**, física teórica y matemáticas. Artículos históricos —como el *paper* original de los *Transformers* ("Attention Is All You Need") o la demostración de la conjetura de Poincaré por Grigori Perelman— se dieron a conocer allí primero, democratizando el acceso gratuito al conocimiento científico sin barreras de pago.
+
 ## Overleaf
 
 ## ResearchGate
